@@ -7,8 +7,9 @@ import Layout from './layout.jsx'
 import Home from './components/home/home.jsx'
 import About from './components/about/about.jsx'
 import Contact from './components/Contact/Contact.jsx'
-import User from './components/User/User.jsx'
-import Github, { githubInfoLoader } from './components/Github/Github.jsx'
+import User from './components/user/User.jsx'
+import Github ,{githubInfoLoader} from './components/github/Github.jsx'
+
 
 // const router = createBrowserRouter([
 //   {
